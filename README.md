@@ -2,7 +2,7 @@
 Stock-Price Forecasting Project
 
 ## Description
-A stock-price forecasting project based on Wuliangye(000858.SZ ) stock data
+A stock-price forecasting project based on Wuliangye(000858.SZ) stock data
 
 ## Author
 - [@HHHyp-Lin](https://github.com/HHHyp-Lin)
